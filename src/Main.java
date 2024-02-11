@@ -13,7 +13,10 @@ public class Main {
         System.out.println("Ile masz lat?");
         String wiek = scanner.nextLine();
 
-        System.out.println("Cześć " + imie + "! " + "Masz " + wiek + " lat!");
+        System.out.println("Gdzie mieszkasz?");
+        String miasto = scanner.nextLine();
+
+        System.out.println("Cześć " + imie + "! " + "Masz " + wiek + " lat!" + "Mieszkasz w " + miasto + " jest tam pieknie!");
 
     }
 }
