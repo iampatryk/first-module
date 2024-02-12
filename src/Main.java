@@ -23,5 +23,3 @@ public class Main {
     }
 }
 // TEST GIT
-//
-//
