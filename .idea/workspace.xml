@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d07744-a1b2-47a5-aeda-91eadc6e85c9" name="Changes" comment="new update" />
+    <list default="true" id="e8d07744-a1b2-47a5-aeda-91eadc6e85c9" name="Changes" comment="new update">
+      <change afterPath="$PROJECT_DIR$/src/InkrementacjaDekrementacja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypyDanych.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypyDanych.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -52,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InkrementacjaDekrementacja.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PobierzDane.executor": "Run",
     "Application.TypyDanych.executor": "Run",
@@ -95,7 +100,7 @@
       <workItem from="1707424311763" duration="1094000" />
       <workItem from="1707425443146" duration="101000" />
       <workItem from="1707425553638" duration="1188000" />
-      <workItem from="1707460255286" duration="9443000" />
+      <workItem from="1707460255286" duration="11023000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -177,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707744471693</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new update">
+      <option name="closed" value="true" />
+      <created>1707744822818</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707744822818</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

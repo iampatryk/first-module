@@ -47,5 +47,19 @@ public class TypyDanych {
         System.out.println("Rozwiazanie zadania druga opcja podana przez kurs" + "\n");
 
         System.out.println("Wynik dodawania " + (pierwszaLiczba + drugaLiczba));
+
+        // dzialania na jednej wartosci
+
+        int x = 5;
+
+        // to samo co x = x + 10
+        // mozna uzyc kazdego znaku -= lub *= lub \=
+
+        x += 10;
+
+        System.out.println("WYNIK");
+        System.out.println(x);
+
+
     }
 }
