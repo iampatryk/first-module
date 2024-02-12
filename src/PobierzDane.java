@@ -16,3 +16,4 @@ public class PobierzDane {
         System.out.println("Imię: " + imie + "\n" + "Nazwisko: " + nazwisko + "\n" + "Wiek: " + wiek);
     }
 }
+//
