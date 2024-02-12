@@ -10,6 +10,7 @@ public class Utrwalenie {
 
         System.out.println("Zarabiasz rocznie: " + (stawka * 2080) + " złotych");
         System.out.println("Zarabiasz miesięcznie: " + (stawka * 160) + " złotych");
+        System.out.println("Zarabiasz tygodniowo: " + (stawka * 40) + " złotych");
 
     }
 }
