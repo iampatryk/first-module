@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d07744-a1b2-47a5-aeda-91eadc6e85c9" name="Changes" comment="new update" />
+    <list default="true" id="e8d07744-a1b2-47a5-aeda-91eadc6e85c9" name="Changes" comment="Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +32,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="33be0013-58bb-4eca-8e83-c70f885e47d0" />
-        <option name="url" value="https://github.com/iampatryk/module-1.git" />
+        <option name="url" value="https://github.com/iampatryk/first-module.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -96,7 +96,7 @@
       <workItem from="1707424311763" duration="1094000" />
       <workItem from="1707425443146" duration="101000" />
       <workItem from="1707425553638" duration="1188000" />
-      <workItem from="1707460255286" duration="11821000" />
+      <workItem from="1707460255286" duration="12514000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -194,7 +194,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707765168646</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="new update">
+      <option name="closed" value="true" />
+      <created>1707765854626</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707765854626</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add">
+      <option name="closed" value="true" />
+      <created>1707766223550</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707766223550</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added">
+      <option name="closed" value="true" />
+      <created>1707766436296</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707766436296</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +238,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update" />
+    <MESSAGE value="Add" />
+    <MESSAGE value="Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
