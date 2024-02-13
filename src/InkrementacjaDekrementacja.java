@@ -8,4 +8,3 @@ public class InkrementacjaDekrementacja {
 
 // INKREMENTACJA +1
 // DEKRAMENTACJA -1
-//
